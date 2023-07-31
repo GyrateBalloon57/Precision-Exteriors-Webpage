@@ -1,0 +1,131 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    background-color: rgb(83, 119, 83);
+}
+
+.header-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    height: auto;
+    flex: 1
+}
+
+.header-buttons{
+    gap: 8px;
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: space-evenly;
+    align-items: stretch;
+    flex: 10;
+}
+
+.header-li{
+    display: flex;
+    justify-content: center;
+}
+
+
+/* content 1 styles (below) */
+
+.content-1{
+    background-color: rgb(160, 168, 151);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.ct-1-text{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    flex: 8;
+}
+
+.ct-1-img{
+ flex: 3;
+ width: 250px;
+}
+
+/* content 2 styles (below) */
+
+.content-2{
+    background-color: rgb(160, 168, 151);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.ct-2-header{
+    background-color: rgb(160, 168, 151);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ct-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ct-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ct-2-img{ 
+    display: flex;
+    flex: 1;
+    width: 150px;
+}
+
+.ct-2-text{
+    display: flex;
+    flex: 10;
+}
+
+/* content 3 styles (below) */
+
+.content-3{
+    background-color: rgb(160, 168, 151);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.ct-3-header{
+    background-color: rgb(160, 168, 151);
+}
+
+/* content 4 styles (below) */
+
+.content-4{
+    background-color: rgb(160, 168, 151);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+/* footer styles (below) */
+
+.footer{
+    background-color: rgb(83, 119, 83);
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* other */
+
+li{
+    list-style: none;
+}

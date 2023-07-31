@@ -8,5 +8,17 @@ So if you're an employer, hello, and I plan on keeping this README as a more det
 
 (I also plan to redo the below section for each README as to keep it from getting super, super long)
 
-Day 1 - After about an hour and a half, I'm calling it quits for the night. I believe I've finished the general framework of the HTML for the main page. 
-Now all that's left for the night is to write my commits and upload my progress to my Github.
+*************************************************
+
+Day 2- 
+
+I've gotten most of the layout for the page completed. 
+
+I still haven't bothered with centering a lot of stuff for now, and it still looks kinda terrible without margins, padding, or borders. I've accomplished my goal for the time being, however. 
+
+I'm likely going to shelve this project for a few days in hope that my courses will grant me some more depth and features to include in the page, such as carousels.
+
+
+
+Also, my naming conventions for my CSS are kinda messy right now. I plan on giving it a refactor in the future :)
+
